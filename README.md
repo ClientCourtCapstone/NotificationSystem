@@ -5,7 +5,7 @@ Part of NJIT's Senior Capstone (2016), the objective is to create a service that
 
 ##Technologies and Tools
 
-- [.NET](https://www.microsoft.com/net): Server Language
+- [.NET](https://www.microsoft.com/net): Primary Language
 - [Twilio](https://www.twilio.com/): SMS API
 
 ##Getting Started with Git

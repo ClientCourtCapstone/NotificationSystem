@@ -17,7 +17,6 @@ Part of NJIT's Senior Capstone (2016), this web application sends daily notifica
 2. Open Command Line in the project folder.
 3. Run `npm start` in the command line.
 4. Done! (Note : Command Line window must remain open on windows machines for automatic reminders to occur)
-
 - On your machine, you can access the dashboard by typing localhost:3005 into your browser. With Windows sharing, other people on your local network will be able to access it with "computer name":3005, where "computer name" is your machine's name (found in Windows System Information).
 
 ##Twilio Instructions
